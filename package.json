@@ -2,7 +2,7 @@
   "name": "react-1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://michaeltamsil.github.io/react-1",
+  "homepage": "https://michaeltamsil.github.io/react-1/",
   "dependencies": {
     "bootstrap": "^4.2.1",
     "gh-pages": "^2.0.1",
